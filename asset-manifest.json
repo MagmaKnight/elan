@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/elan/static/css/main.73c63b79.chunk.css",
+    "main.js": "/elan/static/js/main.0d910e3c.chunk.js",
+    "main.js.map": "/elan/static/js/main.0d910e3c.chunk.js.map",
+    "runtime-main.js": "/elan/static/js/runtime-main.3c907906.js",
+    "runtime-main.js.map": "/elan/static/js/runtime-main.3c907906.js.map",
+    "static/js/2.284e16aa.chunk.js": "/elan/static/js/2.284e16aa.chunk.js",
+    "static/js/2.284e16aa.chunk.js.map": "/elan/static/js/2.284e16aa.chunk.js.map",
+    "index.html": "/elan/index.html",
+    "precache-manifest.3460b9e06f6aa18c4f47443dd06bd5ad.js": "/elan/precache-manifest.3460b9e06f6aa18c4f47443dd06bd5ad.js",
+    "service-worker.js": "/elan/service-worker.js",
+    "static/css/main.73c63b79.chunk.css.map": "/elan/static/css/main.73c63b79.chunk.css.map",
+    "static/js/2.284e16aa.chunk.js.LICENSE.txt": "/elan/static/js/2.284e16aa.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/elan/static/media/Cheddar.862c8330.ttf",
+    "static/media/acupuntura1.jpg": "/elan/static/media/acupuntura1.b7ee872a.jpg",
+    "static/media/acupuntura2.jpg": "/elan/static/media/acupuntura2.7c1770da.jpg",
+    "static/media/aline.jpg": "/elan/static/media/aline.919c8a7f.jpg",
+    "static/media/arthur.jpg": "/elan/static/media/arthur.52c40deb.jpg",
+    "static/media/instagram.svg": "/elan/static/media/instagram.5b23a837.svg",
+    "static/media/itau.png": "/elan/static/media/itau.ad0354c8.png",
+    "static/media/logo.jpeg": "/elan/static/media/logo.9da0b090.jpeg",
+    "static/media/massagem1.jpg": "/elan/static/media/massagem1.e6a6699b.jpg",
+    "static/media/massagem2.jpg": "/elan/static/media/massagem2.81a21ea9.jpg",
+    "static/media/mercadopago.png": "/elan/static/media/mercadopago.6a608790.png",
+    "static/media/moxabust.jpg": "/elan/static/media/moxabust.e9575897.jpg",
+    "static/media/moxabust2.jpg": "/elan/static/media/moxabust2.eed12bd4.jpg",
+    "static/media/moxabust3.jpg": "/elan/static/media/moxabust3.fe7758a8.jpg",
+    "static/media/moxabust4.jpg": "/elan/static/media/moxabust4.6207ea70.jpg",
+    "static/media/nubank.png": "/elan/static/media/nubank.24f6d89b.png",
+    "static/media/picpay.png": "/elan/static/media/picpay.36cf743d.png",
+    "static/media/produto1.jpg": "/elan/static/media/produto1.10ad3de1.jpg",
+    "static/media/produto2.jpg": "/elan/static/media/produto2.67e1545a.jpg",
+    "static/media/whatsapp.svg": "/elan/static/media/whatsapp.b53c44ad.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c907906.js",
+    "static/js/2.284e16aa.chunk.js",
+    "static/css/main.73c63b79.chunk.css",
+    "static/js/main.0d910e3c.chunk.js"
+  ]
+}
