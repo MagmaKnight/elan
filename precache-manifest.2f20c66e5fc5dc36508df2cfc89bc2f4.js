@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae1c7e0313c3f80e6722d54dd5b6a2ee",
+    "revision": "0ec8b293be0426c9f8d1c20cb7e58052",
     "url": "/elan/index.html"
   },
   {
-    "revision": "88eeccee2db2c0da149e",
-    "url": "/elan/static/css/main.73c63b79.chunk.css"
+    "revision": "607bd3b600b18aad925d",
+    "url": "/elan/static/css/main.59fa4a9d.chunk.css"
   },
   {
-    "revision": "921935ed14b8a6918cb6",
-    "url": "/elan/static/js/2.284e16aa.chunk.js"
+    "revision": "271de69fb4c9bb5b5407",
+    "url": "/elan/static/js/2.c7d73103.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/elan/static/js/2.284e16aa.chunk.js.LICENSE.txt"
+    "url": "/elan/static/js/2.c7d73103.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "88eeccee2db2c0da149e",
-    "url": "/elan/static/js/main.0d910e3c.chunk.js"
+    "revision": "607bd3b600b18aad925d",
+    "url": "/elan/static/js/main.c031f3fc.chunk.js"
   },
   {
     "revision": "614fe305886227641297",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52c40deb9540b4afdc116304c41f0b3e",
     "url": "/elan/static/media/arthur.52c40deb.jpg"
+  },
+  {
+    "revision": "1b90869edc2edc0e6c70ee1cb1d2e379",
+    "url": "/elan/static/media/chakra.1b90869e.jpg"
   },
   {
     "revision": "5b23a837268b09d0efa9e307023c1dae",
@@ -96,12 +100,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elan/static/media/picpay.36cf743d.png"
   },
   {
-    "revision": "10ad3de14fe836713188d409cbb4e692",
-    "url": "/elan/static/media/produto1.10ad3de1.jpg"
+    "revision": "2de6ac7b6bc69c8f73dd81b1e24e9d24",
+    "url": "/elan/static/media/postura.2de6ac7b.jpg"
+  },
+  {
+    "revision": "aa791f8cc986c6a65c6ac333042bfd23",
+    "url": "/elan/static/media/produto1.aa791f8c.jpg"
   },
   {
     "revision": "67e1545a9984056e7e13b3d027ee0418",
     "url": "/elan/static/media/produto2.67e1545a.jpg"
+  },
+  {
+    "revision": "d5a44bf2dab7183ff5c975e0f7f72567",
+    "url": "/elan/static/media/produto3.d5a44bf2.png"
+  },
+  {
+    "revision": "3ed3dfc68b8d6543f6bb7d787c7ef053",
+    "url": "/elan/static/media/produto4.3ed3dfc6.png"
+  },
+  {
+    "revision": "21e1a639b1d1e099cda9bb4a678d481f",
+    "url": "/elan/static/media/reflexologia.21e1a639.jpg"
+  },
+  {
+    "revision": "297def63034fb19c5da4860b8a70d649",
+    "url": "/elan/static/media/shiatsu.297def63.jpg"
   },
   {
     "revision": "b53c44ade1df4039f1390274ee88f194",
