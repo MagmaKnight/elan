@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ec8b293be0426c9f8d1c20cb7e58052",
+    "revision": "cb668962933a66a523a9ad6b1e6a398c",
     "url": "/elan/index.html"
   },
   {
-    "revision": "607bd3b600b18aad925d",
-    "url": "/elan/static/css/main.59fa4a9d.chunk.css"
+    "revision": "4670267e1f2aa880450e",
+    "url": "/elan/static/css/main.468fec83.chunk.css"
   },
   {
-    "revision": "271de69fb4c9bb5b5407",
-    "url": "/elan/static/js/2.c7d73103.chunk.js"
+    "revision": "4bd9b3517e037e7988a4",
+    "url": "/elan/static/js/2.e44c3784.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/elan/static/js/2.c7d73103.chunk.js.LICENSE.txt"
+    "url": "/elan/static/js/2.e44c3784.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "607bd3b600b18aad925d",
-    "url": "/elan/static/js/main.c031f3fc.chunk.js"
+    "revision": "4670267e1f2aa880450e",
+    "url": "/elan/static/js/main.625ca6de.chunk.js"
   },
   {
     "revision": "614fe305886227641297",
@@ -46,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52c40deb9540b4afdc116304c41f0b3e",
     "url": "/elan/static/media/arthur.52c40deb.jpg"
-  },
-  {
-    "revision": "1b90869edc2edc0e6c70ee1cb1d2e379",
-    "url": "/elan/static/media/chakra.1b90869e.jpg"
   },
   {
     "revision": "5b23a837268b09d0efa9e307023c1dae",
@@ -92,16 +88,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elan/static/media/moxabust4.6207ea70.jpg"
   },
   {
+    "revision": "cffb67a966559c1db5ccf84f6e9544fa",
+    "url": "/elan/static/media/novabio.cffb67a9.jpg"
+  },
+  {
+    "revision": "fd2eca9a4906ecb5090acd14581490b9",
+    "url": "/elan/static/media/novareajuste.fd2eca9a.jpg"
+  },
+  {
+    "revision": "105b208002c8626dfa1a67610d454073",
+    "url": "/elan/static/media/novareflexologia.105b2080.jpg"
+  },
+  {
+    "revision": "398a5f60880deabf54c1e7695126aa55",
+    "url": "/elan/static/media/novarelaxante.398a5f60.jpg"
+  },
+  {
+    "revision": "a43ab4cdd99d70657c7157c29c6cf545",
+    "url": "/elan/static/media/novashiatsu.a43ab4cd.jpg"
+  },
+  {
     "revision": "24f6d89bfd8e4d50bb57331efa2a6416",
     "url": "/elan/static/media/nubank.24f6d89b.png"
   },
   {
     "revision": "36cf743d990ed98fc6b2afacb9fdff6f",
     "url": "/elan/static/media/picpay.36cf743d.png"
-  },
-  {
-    "revision": "2de6ac7b6bc69c8f73dd81b1e24e9d24",
-    "url": "/elan/static/media/postura.2de6ac7b.jpg"
   },
   {
     "revision": "aa791f8cc986c6a65c6ac333042bfd23",
@@ -112,20 +124,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elan/static/media/produto2.67e1545a.jpg"
   },
   {
-    "revision": "d5a44bf2dab7183ff5c975e0f7f72567",
-    "url": "/elan/static/media/produto3.d5a44bf2.png"
-  },
-  {
     "revision": "3ed3dfc68b8d6543f6bb7d787c7ef053",
     "url": "/elan/static/media/produto4.3ed3dfc6.png"
-  },
-  {
-    "revision": "21e1a639b1d1e099cda9bb4a678d481f",
-    "url": "/elan/static/media/reflexologia.21e1a639.jpg"
-  },
-  {
-    "revision": "297def63034fb19c5da4860b8a70d649",
-    "url": "/elan/static/media/shiatsu.297def63.jpg"
   },
   {
     "revision": "b53c44ade1df4039f1390274ee88f194",
