@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/elan/static/css/main.468fec83.chunk.css",
-    "main.js": "/elan/static/js/main.625ca6de.chunk.js",
-    "main.js.map": "/elan/static/js/main.625ca6de.chunk.js.map",
+    "main.js": "/elan/static/js/main.bd3102ce.chunk.js",
+    "main.js.map": "/elan/static/js/main.bd3102ce.chunk.js.map",
     "runtime-main.js": "/elan/static/js/runtime-main.3c907906.js",
     "runtime-main.js.map": "/elan/static/js/runtime-main.3c907906.js.map",
     "static/js/2.e44c3784.chunk.js": "/elan/static/js/2.e44c3784.chunk.js",
     "static/js/2.e44c3784.chunk.js.map": "/elan/static/js/2.e44c3784.chunk.js.map",
     "index.html": "/elan/index.html",
-    "precache-manifest.7275238877ebfae34b12f58ab88e450a.js": "/elan/precache-manifest.7275238877ebfae34b12f58ab88e450a.js",
+    "precache-manifest.8b7af82cd3a8727c9acaeea566ae2009.js": "/elan/precache-manifest.8b7af82cd3a8727c9acaeea566ae2009.js",
     "service-worker.js": "/elan/service-worker.js",
     "static/css/main.468fec83.chunk.css.map": "/elan/static/css/main.468fec83.chunk.css.map",
     "static/js/2.e44c3784.chunk.js.LICENSE.txt": "/elan/static/js/2.e44c3784.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/elan/static/media/Cheddar.862c8330.ttf",
     "static/media/acupuntura1.jpg": "/elan/static/media/acupuntura1.b7ee872a.jpg",
     "static/media/acupuntura2.jpg": "/elan/static/media/acupuntura2.7c1770da.jpg",
-    "static/media/aline.jpg": "/elan/static/media/aline.919c8a7f.jpg",
+    "static/media/aline.jpeg": "/elan/static/media/aline.ef196f6b.jpeg",
     "static/media/arthur.jpg": "/elan/static/media/arthur.52c40deb.jpg",
     "static/media/instagram.svg": "/elan/static/media/instagram.5b23a837.svg",
     "static/media/itau.png": "/elan/static/media/itau.ad0354c8.png",
@@ -43,6 +43,6 @@
     "static/js/runtime-main.3c907906.js",
     "static/js/2.e44c3784.chunk.js",
     "static/css/main.468fec83.chunk.css",
-    "static/js/main.625ca6de.chunk.js"
+    "static/js/main.bd3102ce.chunk.js"
   ]
 }

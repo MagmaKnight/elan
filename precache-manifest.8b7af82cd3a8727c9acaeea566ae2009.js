@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb668962933a66a523a9ad6b1e6a398c",
+    "revision": "20d5fe24e1ba4eca0f4a2e48309a0ba5",
     "url": "/elan/index.html"
   },
   {
-    "revision": "4670267e1f2aa880450e",
+    "revision": "4d8573680f5036ebdc13",
     "url": "/elan/static/css/main.468fec83.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elan/static/js/2.e44c3784.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4670267e1f2aa880450e",
-    "url": "/elan/static/js/main.625ca6de.chunk.js"
+    "revision": "4d8573680f5036ebdc13",
+    "url": "/elan/static/js/main.bd3102ce.chunk.js"
   },
   {
     "revision": "614fe305886227641297",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elan/static/media/acupuntura2.7c1770da.jpg"
   },
   {
-    "revision": "919c8a7f1f1f9fd7abffc49151072705",
-    "url": "/elan/static/media/aline.919c8a7f.jpg"
+    "revision": "ef196f6bd0837f015b5b4985ad537649",
+    "url": "/elan/static/media/aline.ef196f6b.jpeg"
   },
   {
     "revision": "52c40deb9540b4afdc116304c41f0b3e",
